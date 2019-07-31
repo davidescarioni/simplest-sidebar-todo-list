@@ -1,0 +1,19 @@
+{
+
+  "manifest_version": 2,
+  "name": "Simplest ToDo List",
+  "version": "1.0",
+
+  "description": "Only a simple ToDo list that lives in the sidebar.",
+
+  "icons": {
+    "48": "icons/border-48.png"
+  },
+
+  "sidebar_action": {
+    "default_title": "Simplest ToDo List",
+    "default_panel": "todo.html",
+    "default_icon": "icons/icon-48.png"
+  }
+
+}
